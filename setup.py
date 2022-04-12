@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='vk',
@@ -22,4 +22,3 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
 )
-
